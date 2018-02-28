@@ -6,6 +6,8 @@ It contains two parts:
 the scaled image as output.
 2) Histogram Equalization in Luv applied to the luminance values, as computed in the specified window.
 
+For more detailed information, refer to Project1.pdf
+
 Instructions for running the code:
 Navigate to the folder containing the code files and from the cmd/ terminal, type:
 
